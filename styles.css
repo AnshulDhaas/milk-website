@@ -109,7 +109,8 @@ body {
     flex-wrap: nowrap; 
     padding: 20px;
     box-sizing: border-box;
-    overflow-x: auto; 
+    overflow-x: auto;
+    background-color: rgb(8, 131, 149);
 }
 
 .image-wrapper {
